@@ -1,0 +1,7 @@
+Skriv en funktion `textLength` som tar en string som argument och returnerar antal tecken som texten innehåller.
+
+````javascript
+    console.log(textLength("foo"))      // Prints 3
+    console.log(textLength(""))         // Prints 0
+    console.log(textLength("Tullinge")) // Prints 8
+````
