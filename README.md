@@ -14,7 +14,7 @@
 
 ## Varje vecka
 
-1. Kör `git pull upstream` för att få ner denna veckas läxor
+1. Kör `git pull upstream main` för att få ner denna veckas läxor
 2. Gör uppgifterna
 3. Pusha upp efter varje löst uppgift.
 
