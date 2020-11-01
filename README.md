@@ -14,7 +14,7 @@
 
 ## Varje vecka
 
-1. Kör `git pull upstream main` för att få ner denna veckas läxor
+1. Kör `git pull upstream main` för att få ner denna veckas läxor. Eventuellt kan det komma upp en editor i terminalen när ändringarna från båda repositories ska mergas (sättas ihop). Du bör kunna trycka på `CTRL X` och sedan `Y` för att bekräfta.
 2. Gör uppgifterna
 3. Pusha upp efter varje löst uppgift.
 
