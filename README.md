@@ -8,13 +8,13 @@
 ````
     git remote add upstream https://github.com/tullinge-prog1/homework.git
 ````
-3. Kör därefter `git pull upstream main` för att bekräfta att det fungerar.
 
 **Om du har några problem med att komma igång - säg till**. 
 
 ## Varje vecka
 
-1. Kör `git pull upstream main` för att få ner denna veckas läxor. Eventuellt kan det komma upp en editor i terminalen när ändringarna från båda repositories ska mergas (sättas ihop). Du bör kunna trycka på `CTRL X` och sedan `Y` för att bekräfta.
+1. Kör `git pull upstream main` för att få ner denna veckas läxor. Du kommer kanske att se en texteditor i terminalen när ändringarna från båda repositories ska mergas (sättas ihop). Det är helt OK. Tryck `CTRL X` (ibland kan du även behöva trycka `Y` efteråt för att bekräfta).
+![git-message](assets/git-merge-message.png)
 2. Gör uppgifterna
 3. Pusha upp efter varje löst uppgift.
 
