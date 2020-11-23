@@ -7,4 +7,5 @@ while (i < 500) {
     console.log(`Hejsan ${name}!!`)
     i++
 }
+
 //tänker inte räkna om det är 500, men det borde fungera.
