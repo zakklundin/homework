@@ -23,6 +23,17 @@ for (let i = 0; i < 10; i++) {
 console.log(str2)
 
 
+//Upp och nervänd:
+let str4 = ''
+for (let i = 10; i > 0; i--) {
+    for (let j = 0; j < i; j++) {
+        str4 = str4 + '*'
+    }
+    str4 = str4 + '\n' // Lägg till en radbrytning
+}
+
+console.log(str4)
+
 
 //Kvadrat:
 
@@ -45,7 +56,7 @@ for (let i = 0; i < 6; i++) {
         str = str + ' * '
     }
     str = str + '\n' // Lägg till en radbrytning
-    for (let x = 0; x < i; x++) {
+    for (let x = 0; x < i + 1; x++) {
         str = str + ' '
     }
 }
